@@ -1,0 +1,6 @@
+text : 5
+you : 4
+the : 3
+in : 2
+document : 1
+line : 1

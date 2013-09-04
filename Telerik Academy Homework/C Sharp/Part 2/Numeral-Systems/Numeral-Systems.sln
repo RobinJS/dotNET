@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. DecimalToBinary", "1. DecimalToBinary\1. DecimalToBinary.csproj", "{F7380AB5-73A3-4AF7-8C92-DFEB1F621B7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. BinaryToDecimal", "2. BinaryToDecimal\2. BinaryToDecimal.csproj", "{FA35C1D1-F88A-450A-9EEC-5BC3DD3B4810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. DecimalToHexadecimal", "3. DecimalToHexadecimal\3. DecimalToHexadecimal.csproj", "{4EED24ED-52A2-4C51-8528-99EF691F33F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. HexadecimalToDecimal", "4. HexadecimalToDecimal\4. HexadecimalToDecimal.csproj", "{4CC94537-E7D4-41AB-82B1-F6ED3D6C387E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. HexadecimalToBinary", "5. HexadecimalToBinary\5. HexadecimalToBinary.csproj", "{322ADE6D-FB75-4564-925A-D6947ED24019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. BinaryToHexadecimal", "6. BinaryToHexadecimal\6. BinaryToHexadecimal.csproj", "{133E8D93-E9F8-4C0C-A604-725CC0A6B540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. NumSysConvertor", "7. NumSysConvertor\7. NumSysConvertor.csproj", "{4C89D584-FBEA-4F68-90C0-61478DB01573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. BinaryOf16BitShort", "8. BinaryOf16BitShort\8. BinaryOf16BitShort.csproj", "{06F33F16-82B2-4826-BEF9-3C37A10DA199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7380AB5-73A3-4AF7-8C92-DFEB1F621B7A}.Debug|x86.ActiveCfg = Debug|x86
+		{F7380AB5-73A3-4AF7-8C92-DFEB1F621B7A}.Debug|x86.Build.0 = Debug|x86
+		{F7380AB5-73A3-4AF7-8C92-DFEB1F621B7A}.Release|x86.ActiveCfg = Release|x86
+		{F7380AB5-73A3-4AF7-8C92-DFEB1F621B7A}.Release|x86.Build.0 = Release|x86
+		{FA35C1D1-F88A-450A-9EEC-5BC3DD3B4810}.Debug|x86.ActiveCfg = Debug|x86
+		{FA35C1D1-F88A-450A-9EEC-5BC3DD3B4810}.Debug|x86.Build.0 = Debug|x86
+		{FA35C1D1-F88A-450A-9EEC-5BC3DD3B4810}.Release|x86.ActiveCfg = Release|x86
+		{FA35C1D1-F88A-450A-9EEC-5BC3DD3B4810}.Release|x86.Build.0 = Release|x86
+		{4EED24ED-52A2-4C51-8528-99EF691F33F9}.Debug|x86.ActiveCfg = Debug|x86
+		{4EED24ED-52A2-4C51-8528-99EF691F33F9}.Debug|x86.Build.0 = Debug|x86
+		{4EED24ED-52A2-4C51-8528-99EF691F33F9}.Release|x86.ActiveCfg = Release|x86
+		{4EED24ED-52A2-4C51-8528-99EF691F33F9}.Release|x86.Build.0 = Release|x86
+		{4CC94537-E7D4-41AB-82B1-F6ED3D6C387E}.Debug|x86.ActiveCfg = Debug|x86
+		{4CC94537-E7D4-41AB-82B1-F6ED3D6C387E}.Debug|x86.Build.0 = Debug|x86
+		{4CC94537-E7D4-41AB-82B1-F6ED3D6C387E}.Release|x86.ActiveCfg = Release|x86
+		{4CC94537-E7D4-41AB-82B1-F6ED3D6C387E}.Release|x86.Build.0 = Release|x86
+		{322ADE6D-FB75-4564-925A-D6947ED24019}.Debug|x86.ActiveCfg = Debug|x86
+		{322ADE6D-FB75-4564-925A-D6947ED24019}.Debug|x86.Build.0 = Debug|x86
+		{322ADE6D-FB75-4564-925A-D6947ED24019}.Release|x86.ActiveCfg = Release|x86
+		{322ADE6D-FB75-4564-925A-D6947ED24019}.Release|x86.Build.0 = Release|x86
+		{133E8D93-E9F8-4C0C-A604-725CC0A6B540}.Debug|x86.ActiveCfg = Debug|x86
+		{133E8D93-E9F8-4C0C-A604-725CC0A6B540}.Debug|x86.Build.0 = Debug|x86
+		{133E8D93-E9F8-4C0C-A604-725CC0A6B540}.Release|x86.ActiveCfg = Release|x86
+		{133E8D93-E9F8-4C0C-A604-725CC0A6B540}.Release|x86.Build.0 = Release|x86
+		{4C89D584-FBEA-4F68-90C0-61478DB01573}.Debug|x86.ActiveCfg = Debug|x86
+		{4C89D584-FBEA-4F68-90C0-61478DB01573}.Debug|x86.Build.0 = Debug|x86
+		{4C89D584-FBEA-4F68-90C0-61478DB01573}.Release|x86.ActiveCfg = Release|x86
+		{4C89D584-FBEA-4F68-90C0-61478DB01573}.Release|x86.Build.0 = Release|x86
+		{06F33F16-82B2-4826-BEF9-3C37A10DA199}.Debug|x86.ActiveCfg = Debug|x86
+		{06F33F16-82B2-4826-BEF9-3C37A10DA199}.Debug|x86.Build.0 = Debug|x86
+		{06F33F16-82B2-4826-BEF9-3C37A10DA199}.Release|x86.ActiveCfg = Release|x86
+		{06F33F16-82B2-4826-BEF9-3C37A10DA199}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

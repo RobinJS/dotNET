@@ -1,0 +1,1 @@
+Unit tests are created by programmers or occasionally by white box testers during the development process. The goal of unit testing is to isolate each part of the program and show that the individual parts are correct.

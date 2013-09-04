@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. NumbersOneToN", "1. NumbersOneToN\1. NumbersOneToN.csproj", "{BCB3F078-7248-4585-A99C-AB307452CE8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. PrintNotDivisibleOneToN", "2. PrintNotDivisibleOneToN\2. PrintNotDivisibleOneToN.csproj", "{9EC420AC-3FD8-42A5-B734-96BD3BFE523F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. MinimalAndMaximalOfIntegers", "3. MinimalAndMaximalOfIntegers\3. MinimalAndMaximalOfIntegers.csproj", "{68C5B715-8848-4401-9B37-F49592CADF99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. FactorialsDivision", "4. FactorialsDivision\4. FactorialsDivision.csproj", "{FE512D3C-3ADB-4299-AF18-E16B373F85DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. FactorialsMultyplication", "5. FactorialsMultyplication\5. FactorialsMultyplication.csproj", "{E5BE8B9F-3842-4317-B954-C4260AC87665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. FactorialSum", "6. FactorialSum\6. FactorialSum.csproj", "{4A9D71ED-8BBB-4931-A610-F7F34414C9F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. FibonacciSum", "7. FibonacciSum\7. FibonacciSum.csproj", "{BABF2797-AD2C-4019-A036-1FEB98C5D133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. GreatestCommonDivisor", "8. GreatestCommonDivisor\8. GreatestCommonDivisor.csproj", "{0DC56688-F829-4903-B99D-9DC32FD00034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. CatalanNumber", "10. CatalanNumber\10. CatalanNumber.csproj", "{14C79B89-5165-4E61-A229-6772F8B79060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. PlayingCards", "11. PlayingCards\11. PlayingCards.csproj", "{0D8A0D69-93F4-4F76-8635-2D5318CCD6CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Matrix", "12. Matrix\12. Matrix.csproj", "{CAA22672-90BA-46D7-8981-102B5C9709FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Zeros", "13. Zeros\13. Zeros.csproj", "{B5B039B5-38B5-4DE5-BB3E-041BE090AC9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCB3F078-7248-4585-A99C-AB307452CE8E}.Debug|x86.ActiveCfg = Debug|x86
+		{BCB3F078-7248-4585-A99C-AB307452CE8E}.Debug|x86.Build.0 = Debug|x86
+		{BCB3F078-7248-4585-A99C-AB307452CE8E}.Release|x86.ActiveCfg = Release|x86
+		{BCB3F078-7248-4585-A99C-AB307452CE8E}.Release|x86.Build.0 = Release|x86
+		{9EC420AC-3FD8-42A5-B734-96BD3BFE523F}.Debug|x86.ActiveCfg = Debug|x86
+		{9EC420AC-3FD8-42A5-B734-96BD3BFE523F}.Debug|x86.Build.0 = Debug|x86
+		{9EC420AC-3FD8-42A5-B734-96BD3BFE523F}.Release|x86.ActiveCfg = Release|x86
+		{9EC420AC-3FD8-42A5-B734-96BD3BFE523F}.Release|x86.Build.0 = Release|x86
+		{68C5B715-8848-4401-9B37-F49592CADF99}.Debug|x86.ActiveCfg = Debug|x86
+		{68C5B715-8848-4401-9B37-F49592CADF99}.Debug|x86.Build.0 = Debug|x86
+		{68C5B715-8848-4401-9B37-F49592CADF99}.Release|x86.ActiveCfg = Release|x86
+		{68C5B715-8848-4401-9B37-F49592CADF99}.Release|x86.Build.0 = Release|x86
+		{FE512D3C-3ADB-4299-AF18-E16B373F85DA}.Debug|x86.ActiveCfg = Debug|x86
+		{FE512D3C-3ADB-4299-AF18-E16B373F85DA}.Debug|x86.Build.0 = Debug|x86
+		{FE512D3C-3ADB-4299-AF18-E16B373F85DA}.Release|x86.ActiveCfg = Release|x86
+		{FE512D3C-3ADB-4299-AF18-E16B373F85DA}.Release|x86.Build.0 = Release|x86
+		{E5BE8B9F-3842-4317-B954-C4260AC87665}.Debug|x86.ActiveCfg = Debug|x86
+		{E5BE8B9F-3842-4317-B954-C4260AC87665}.Debug|x86.Build.0 = Debug|x86
+		{E5BE8B9F-3842-4317-B954-C4260AC87665}.Release|x86.ActiveCfg = Release|x86
+		{E5BE8B9F-3842-4317-B954-C4260AC87665}.Release|x86.Build.0 = Release|x86
+		{4A9D71ED-8BBB-4931-A610-F7F34414C9F2}.Debug|x86.ActiveCfg = Debug|x86
+		{4A9D71ED-8BBB-4931-A610-F7F34414C9F2}.Debug|x86.Build.0 = Debug|x86
+		{4A9D71ED-8BBB-4931-A610-F7F34414C9F2}.Release|x86.ActiveCfg = Release|x86
+		{4A9D71ED-8BBB-4931-A610-F7F34414C9F2}.Release|x86.Build.0 = Release|x86
+		{BABF2797-AD2C-4019-A036-1FEB98C5D133}.Debug|x86.ActiveCfg = Debug|x86
+		{BABF2797-AD2C-4019-A036-1FEB98C5D133}.Debug|x86.Build.0 = Debug|x86
+		{BABF2797-AD2C-4019-A036-1FEB98C5D133}.Release|x86.ActiveCfg = Release|x86
+		{BABF2797-AD2C-4019-A036-1FEB98C5D133}.Release|x86.Build.0 = Release|x86
+		{0DC56688-F829-4903-B99D-9DC32FD00034}.Debug|x86.ActiveCfg = Debug|x86
+		{0DC56688-F829-4903-B99D-9DC32FD00034}.Debug|x86.Build.0 = Debug|x86
+		{0DC56688-F829-4903-B99D-9DC32FD00034}.Release|x86.ActiveCfg = Release|x86
+		{0DC56688-F829-4903-B99D-9DC32FD00034}.Release|x86.Build.0 = Release|x86
+		{14C79B89-5165-4E61-A229-6772F8B79060}.Debug|x86.ActiveCfg = Debug|x86
+		{14C79B89-5165-4E61-A229-6772F8B79060}.Debug|x86.Build.0 = Debug|x86
+		{14C79B89-5165-4E61-A229-6772F8B79060}.Release|x86.ActiveCfg = Release|x86
+		{14C79B89-5165-4E61-A229-6772F8B79060}.Release|x86.Build.0 = Release|x86
+		{0D8A0D69-93F4-4F76-8635-2D5318CCD6CA}.Debug|x86.ActiveCfg = Debug|x86
+		{0D8A0D69-93F4-4F76-8635-2D5318CCD6CA}.Debug|x86.Build.0 = Debug|x86
+		{0D8A0D69-93F4-4F76-8635-2D5318CCD6CA}.Release|x86.ActiveCfg = Release|x86
+		{0D8A0D69-93F4-4F76-8635-2D5318CCD6CA}.Release|x86.Build.0 = Release|x86
+		{CAA22672-90BA-46D7-8981-102B5C9709FC}.Debug|x86.ActiveCfg = Debug|x86
+		{CAA22672-90BA-46D7-8981-102B5C9709FC}.Debug|x86.Build.0 = Debug|x86
+		{CAA22672-90BA-46D7-8981-102B5C9709FC}.Release|x86.ActiveCfg = Release|x86
+		{CAA22672-90BA-46D7-8981-102B5C9709FC}.Release|x86.Build.0 = Release|x86
+		{B5B039B5-38B5-4DE5-BB3E-041BE090AC9D}.Debug|x86.ActiveCfg = Debug|x86
+		{B5B039B5-38B5-4DE5-BB3E-041BE090AC9D}.Debug|x86.Build.0 = Debug|x86
+		{B5B039B5-38B5-4DE5-BB3E-041BE090AC9D}.Release|x86.ActiveCfg = Release|x86
+		{B5B039B5-38B5-4DE5-BB3E-041BE090AC9D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

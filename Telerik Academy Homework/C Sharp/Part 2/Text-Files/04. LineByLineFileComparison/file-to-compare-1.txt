@@ -1,0 +1,10 @@
+This line is the same
+a
+b
+c
+d
+This line is the same
+e
+f
+g
+This line is the same
